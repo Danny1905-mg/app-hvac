@@ -67,7 +67,7 @@ st.markdown("""
     🛠 Desarrollado para cálculos rápidos en campo HVAC
     </p>
 """, unsafe_allow_html=True)
-📌 Instrucciones para ejecutarlo
+Instrucciones para ejecutarlo
 Instala Streamlit si no lo tienes:
 
 bash
